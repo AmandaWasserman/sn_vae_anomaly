@@ -17,3 +17,9 @@
 ### Steven:
 
 - clustering in z space
+
+### Jose:
+- Log MEL spectrogram quick try
+
+### Samuel: 
+- README
