@@ -17,3 +17,7 @@
 ### Steven:
 
 - clustering in z space
+
+### Ming:
+
+- autoencoder ig, will optimise tmr
