@@ -18,6 +18,10 @@
 
 - clustering in z space
 
+### Ming:
+
+- autoencoder ig, will optimise tmr
+
 ### Jose:
 - Log MEL spectrogram quick try
 
